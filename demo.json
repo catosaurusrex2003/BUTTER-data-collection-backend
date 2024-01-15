@@ -1,0 +1,5 @@
+{
+    "name":"random uuid",
+    "coordinates":[longitude,lattitude],
+    "numberofPotholes":[array of 10 numbers]
+}

@@ -1,0 +1,3 @@
+
+import cythontest
+cythontest.main()
