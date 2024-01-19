@@ -1,5 +1,4 @@
 env
 models
 .vscode
-setup.sh
-.env
+*.env
