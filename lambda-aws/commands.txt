@@ -1,0 +1,11 @@
+cd lambda-aws
+mkdir dependencies
+pip install --target ./dependencies pymongo
+cd dependencies
+zip -r ../deployment.zip *
+cd ..
+zip deployment.zip lambda_function.py
+
+upload the zip
+add env vars
+deploy
