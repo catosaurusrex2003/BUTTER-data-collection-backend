@@ -55,9 +55,9 @@ starlette==0.27.0
 sympy==1.12
 threadpoolctl==3.2.0
 # comment these 3 packages every time you make requirements.txt
-# torch==2.0.1+cpu
-# torchaudio==2.0.2+cpu
-# torchvision==0.15.2+cpu
+torch==2.0.1+cpu
+torchaudio==2.0.2+cpu
+torchvision==0.15.2+cpu
 tqdm==4.66.1
 typing_extensions==4.8.0
 tzdata==2023.3
