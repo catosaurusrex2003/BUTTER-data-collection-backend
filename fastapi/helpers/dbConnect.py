@@ -28,8 +28,9 @@ except Exception as e:
     print(e)
 
 coordinateCollection = client.ipd.coordinates
-
+sparsePotholesCollection = client.ipd.sparsePotholes
 testCoordinateCollection = client.ipd.coordinateTest
 
 coordinateCollection.create_index([("location", pymongo.GEOSPHERE)])
+sparsePotholesCollection.create_index([("location", pymongo.GEOSPHERE)])
 testCoordinateCollection.create_index([("location", pymongo.GEOSPHERE)])

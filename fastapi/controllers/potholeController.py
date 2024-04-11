@@ -18,7 +18,7 @@ def potholeController(long, lat, amt=0):
         the object of the pothole found else None
     """
 
-    result = queryDatabaseForPotholes(long, lat)
+    result = queryDatabaseForPotholes(long, lat, 20)
 
     if result:
         print(result)

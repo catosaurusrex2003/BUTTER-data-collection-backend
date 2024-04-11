@@ -1,10 +1,19 @@
-from helpers.dbConnect import coordinateCollection
+import pymongo
+from helpers.dbConnect import (
+    coordinateCollection,
+    testCoordinateCollection,
+    sparsePotholesCollection,
+)
 from helpers.queryDatabaseForPotholes import (
-    TESTqueryDatabaseForPotholes,
     queryDatabaseForPotholes,
 )
 import uuid
 import json
+
+
+coordinateCollection.create_index([("location", pymongo.GEOSPHERE)])
+testCoordinateCollection.create_index([("location", pymongo.GEOSPHERE)])
+sparsePotholesCollection.create_index([("location", pymongo.GEOSPHERE)])
 
 with open("databaseBackup.json", "r") as file:
     data = json.load(file)
@@ -14,7 +23,7 @@ with open("databaseBackup.json", "r") as file:
         latitude = float(i["location"]["coordinates"][1])
         numberofPotholes = i["numberofPotholes"]
 
-        result = queryDatabaseForPotholes(longitude, latitude)
+        result = queryDatabaseForPotholes(longitude, latitude, 20)
 
         if result:
             print(result)
