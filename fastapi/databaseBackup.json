@@ -1,0 +1,3562 @@
+{
+    "data": [
+        {
+            "_id": "6617b3016c96c2f7e2c51fb9",
+            "name": "4a413c19-4c33-45a9-8d84-61dab2ab14d0",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8761015,
+                    19.109898
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                0,
+                0,
+                0,
+                7,
+                7,
+                7,
+                8,
+                0,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3016c96c2f7e2c51fba",
+            "name": "2c6f4152-6f40-4a8f-b249-4fd0c703c11f",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    19.109898,
+                    19.109898
+                ]
+            },
+            "numberofPotholes": [
+                5
+            ]
+        },
+        {
+            "_id": "6617b3016c96c2f7e2c51fbb",
+            "name": "bfd30971-d10b-4a45-957b-a6019db7b277",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    19.1109168,
+                    19.1109168
+                ]
+            },
+            "numberofPotholes": [
+                0,
+                7,
+                0,
+                0,
+                [
+                    0,
+                    0,
+                    2,
+                    2
+                ]
+            ]
+        },
+        {
+            "_id": "6617b3016c96c2f7e2c51fbc",
+            "name": "636059dd-e91d-4755-8f59-f071d5610b8c",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8372298,
+                    19.1106333
+                ]
+            },
+            "numberofPotholes": [
+                0
+            ]
+        },
+        {
+            "_id": "6617b3026c96c2f7e2c51fbd",
+            "name": "8ad206f8-f9f3-43dc-abdf-a4f4572a3765",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0,
+                    5.0
+                ]
+            },
+            "numberofPotholes": [
+                9,
+                9,
+                9,
+                9,
+                9,
+                9,
+                9,
+                9,
+                3,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3026c96c2f7e2c51fbe",
+            "name": "d6a42f1d-dc29-4004-9848-eaa955350c69",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8369622,
+                    19.1079596
+                ]
+            },
+            "numberofPotholes": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3026c96c2f7e2c51fbf",
+            "name": "eb23a231-1b48-46c6-a149-e59cd63a1756",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    19.1079596,
+                    19.1079596
+                ]
+            },
+            "numberofPotholes": [
+                0,
+                0
+            ]
+        },
+        {
+            "_id": "6617b3026c96c2f7e2c51fc0",
+            "name": "cf43d376-359c-4c65-9fb4-61cc1c9c352a",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    5.0,
+                    5.0
+                ]
+            },
+            "numberofPotholes": [
+                0
+            ]
+        },
+        {
+            "_id": "6617b3026c96c2f7e2c51fc1",
+            "name": "d7157e3b-4946-4729-8fd0-6e3fa1240611",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8794244,
+                    19.1080591
+                ]
+            },
+            "numberofPotholes": [
+                0
+            ]
+        },
+        {
+            "_id": "6617b3026c96c2f7e2c51fc2",
+            "name": "5f514f59-a2c7-4158-b6f9-3a6d5737870b",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8774102,
+                    19.1109031
+                ]
+            },
+            "numberofPotholes": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3026c96c2f7e2c51fc3",
+            "name": "3dbad67c-fffb-441b-ad81-41542fc11d9a",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    19.107569,
+                    19.107569
+                ]
+            },
+            "numberofPotholes": [
+                1
+            ]
+        },
+        {
+            "_id": "6617b3026c96c2f7e2c51fc4",
+            "name": "15ae2c81-4596-44ab-91d6-5120724a2fb0",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.836569,
+                    19.114089
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                6,
+                6,
+                3,
+                4,
+                1,
+                1,
+                7,
+                8,
+                6
+            ]
+        },
+        {
+            "_id": "6617b3026c96c2f7e2c51fc5",
+            "name": "46f8114a-498d-4091-ae8f-51f0f81fdfdc",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.844508,
+                    19.116157
+                ]
+            },
+            "numberofPotholes": [
+                8,
+                0,
+                8,
+                9,
+                6,
+                3,
+                5,
+                1,
+                6,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fc6",
+            "name": "3b977580-1c85-4b47-baa2-d859615c5a22",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.829788,
+                    19.118428
+                ]
+            },
+            "numberofPotholes": [
+                9,
+                5,
+                1,
+                0,
+                7,
+                5,
+                6,
+                9,
+                5,
+                9
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fc7",
+            "name": "f388b9a2-bf6e-41ba-a7cd-c9ed361fbfa4",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.829917,
+                    19.109507
+                ]
+            },
+            "numberofPotholes": [
+                8,
+                1,
+                1,
+                6,
+                3,
+                0,
+                5,
+                7,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fc8",
+            "name": "e2007845-7fb1-4f15-aca9-86073d1c1062",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.84571,
+                    19.105898
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                7,
+                4,
+                0,
+                1,
+                2,
+                7,
+                2,
+                5,
+                0
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fc9",
+            "name": "1dab602e-9252-41ab-84b2-99812eb4cc96",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.842405,
+                    19.114332
+                ]
+            },
+            "numberofPotholes": [
+                7,
+                8,
+                2,
+                3,
+                2,
+                4,
+                5,
+                7,
+                6,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fca",
+            "name": "7c0ffab5-1907-4aa8-8806-61b5bdb285b5",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.831634,
+                    19.103749
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                1,
+                1,
+                2,
+                8,
+                8,
+                1,
+                0,
+                8,
+                6
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fcb",
+            "name": "b5f0cc66-c285-4934-9d09-b2c4a74521b3",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.839659,
+                    19.105492
+                ]
+            },
+            "numberofPotholes": [
+                8,
+                7,
+                6,
+                3,
+                3,
+                5,
+                0,
+                3,
+                8,
+                0
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fcc",
+            "name": "efb2003c-70c2-467d-a82f-9a186beeeb87",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.850903,
+                    19.115062
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                3,
+                7,
+                4,
+                0,
+                5,
+                4,
+                5,
+                8,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fcd",
+            "name": "a769e133-7952-48e0-8c49-95e1e0db1831",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.84807,
+                    19.118265
+                ]
+            },
+            "numberofPotholes": [
+                8,
+                0,
+                9,
+                8,
+                6,
+                2,
+                3,
+                3,
+                6,
+                0
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fce",
+            "name": "eff4461d-8792-45a3-80d6-262dbef38ee0",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.83614,
+                    19.115995
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                4,
+                0,
+                2,
+                4,
+                8,
+                9,
+                8,
+                1,
+                9
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fcf",
+            "name": "bd1150f0-0d8b-4b5c-a277-55c2c7b49987",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.842448,
+                    19.101964
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                0,
+                1,
+                2,
+                6,
+                4,
+                2,
+                2,
+                7
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fd0",
+            "name": "6a2502d3-418c-4c5d-8cc8-4e410db90f0d",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.839401,
+                    19.101275
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                6,
+                3,
+                5,
+                1,
+                6,
+                1,
+                8,
+                4,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3036c96c2f7e2c51fd1",
+            "name": "5fe27c47-4a88-4c42-b61c-63313345c016",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8382,
+                    19.088622
+                ]
+            },
+            "numberofPotholes": [
+                7,
+                4,
+                9,
+                0,
+                0,
+                7,
+                5,
+                8,
+                9,
+                8
+            ]
+        },
+        {
+            "_id": "6617b3046c96c2f7e2c51fd2",
+            "name": "fe8cc8a4-4006-4105-bb55-adf769bbd2ab",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.843392,
+                    19.140363
+                ]
+            },
+            "numberofPotholes": [
+                0,
+                0,
+                5,
+                2,
+                2,
+                2,
+                2,
+                0,
+                5,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3046c96c2f7e2c51fd3",
+            "name": "5064e36a-b3b0-4719-bd3f-a051693eda08",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8597,
+                    19.139876
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                9,
+                1,
+                0,
+                8,
+                9,
+                7,
+                2,
+                2,
+                8
+            ]
+        },
+        {
+            "_id": "6617b3046c96c2f7e2c51fd4",
+            "name": "e8482281-d2eb-4f83-bcc8-51e6ec67713c",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.845967,
+                    19.159822
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                8,
+                9,
+                0,
+                5,
+                0,
+                3,
+                2,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3046c96c2f7e2c51fd5",
+            "name": "ad50a030-5945-4e8b-8b18-890db2917efa",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.864163,
+                    19.138903
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                5,
+                7,
+                8,
+                7,
+                8,
+                1,
+                0,
+                4,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3046c96c2f7e2c51fd6",
+            "name": "0c141d74-ab5d-4269-94a1-66df5154fd3d",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.874463,
+                    19.110237
+                ]
+            },
+            "numberofPotholes": [
+                7,
+                4,
+                2,
+                4,
+                8,
+                8,
+                0,
+                8,
+                4,
+                7
+            ]
+        },
+        {
+            "_id": "6617b3046c96c2f7e2c51fd7",
+            "name": "a2fb0ee7-24cf-4d2f-bf76-9a581bb98063",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.86352,
+                    19.102654
+                ]
+            },
+            "numberofPotholes": [
+                8,
+                0,
+                8,
+                9,
+                1,
+                6,
+                8,
+                6,
+                9,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3046c96c2f7e2c51fd8",
+            "name": "040e7264-2e8a-4ec7-87ce-37c82d8065a6",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.88467,
+                    19.286664
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3076c96c2f7e2c51fd9",
+            "name": "6cdf7e7c-b461-4d60-a811-c853509236f5",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.885733,
+                    19.286675
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3076c96c2f7e2c51fda",
+            "name": "866625b3-3b25-4b1c-a33e-9d1240f312f2",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.886979,
+                    19.285764
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3076c96c2f7e2c51fdb",
+            "name": "6cc1c2da-c6a1-47a1-97d0-72a1d95f02b2",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.887118,
+                    19.285276
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3076c96c2f7e2c51fdc",
+            "name": "2029473c-cb6d-4e74-92c7-f24e0e386c47",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.887258,
+                    19.284891
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3076c96c2f7e2c51fdd",
+            "name": "3119e895-c91c-4cfb-a972-59e7319b9f4e",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.887741,
+                    19.283463
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3076c96c2f7e2c51fde",
+            "name": "5c09af91-8c45-4438-8a66-b5c94936bc58",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.888105,
+                    19.282521
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3076c96c2f7e2c51fdf",
+            "name": "38073420-bb71-489b-9c16-d18ba08f7c3e",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.888513,
+                    19.281346
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3076c96c2f7e2c51fe0",
+            "name": "34f5c211-8a60-4f45-9924-b22f286c901d",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.889253,
+                    19.27923
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3076c96c2f7e2c51fe1",
+            "name": "c434735c-24b2-4237-8bef-3910d4cdde60",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.881664,
+                    19.285631
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3076c96c2f7e2c51fe2",
+            "name": "22405710-bc9b-4046-a4ca-91752dfaea45",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.88292,
+                    19.286674
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3086c96c2f7e2c51fe3",
+            "name": "1016deb4-814e-46dd-b5c2-be7b6785f745",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.883585,
+                    19.283474
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3086c96c2f7e2c51fe4",
+            "name": "10ae114e-e1ee-4939-bb9c-c38bb6549714",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.883917,
+                    19.281611
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3086c96c2f7e2c51fe5",
+            "name": "441830f5-879e-4ef5-a7e9-6a56c8bd6259",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.886448,
+                    19.279622
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3086c96c2f7e2c51fe6",
+            "name": "13d04712-4cb8-437b-aad8-0c253466e535",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8897528,
+                    19.2864249
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3086c96c2f7e2c51fe7",
+            "name": "bc21ce7e-5e42-4de5-a963-f7871134c488",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8884055,
+                    19.2865082
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                5,
+                2,
+                3,
+                4,
+                5,
+                1,
+                2,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3086c96c2f7e2c51fe8",
+            "name": "aba51b16-3d2d-4b25-9a30-63604ab0ca97",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8881323,
+                    19.2864808
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3096c96c2f7e2c51fe9",
+            "name": "900a31b2-4c71-4938-8103-56cd7125d625",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8882395,
+                    19.2866234
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                2,
+                3,
+                5,
+                3,
+                4,
+                5,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3096c96c2f7e2c51fea",
+            "name": "0a1333ff-c469-44e5-9684-1f8e5f290aac",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8880503,
+                    19.2867863
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                1
+            ]
+        },
+        {
+            "_id": "6617b30a6c96c2f7e2c51feb",
+            "name": "9c5c6eed-a589-4807-9012-51b2806e175c",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8865564,
+                    19.2839336
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b30a6c96c2f7e2c51fec",
+            "name": "d4319200-fafe-4c26-a688-41998326158f",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8863729,
+                    19.2848209
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b30a6c96c2f7e2c51fed",
+            "name": "e2efb901-db30-49fb-8ae9-513966f93acc",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8864675,
+                    19.2848837
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b30a6c96c2f7e2c51fee",
+            "name": "3a19313a-ff11-4534-9390-c3275ccfc400",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8858217,
+                    19.2850862
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b30a6c96c2f7e2c51fef",
+            "name": "952471b2-886c-4422-8d2f-90dc007aec80",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.884744,
+                    19.2836165
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b30a6c96c2f7e2c51ff0",
+            "name": "12893205-0242-40ee-8dc5-2829b4fc44fc",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8832986,
+                    19.2842274
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b30a6c96c2f7e2c51ff1",
+            "name": "d84bb3dc-57e1-4e44-aaa6-bb25dfc08394",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8834831,
+                    19.2852045
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b30a6c96c2f7e2c51ff2",
+            "name": "3c4b7faf-5bca-4034-8f7e-e8a5bb3b4db1",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8808501,
+                    19.2848191
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b30b6c96c2f7e2c51ff3",
+            "name": "cb94a933-a666-4248-8201-8a3da2364d4a",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8811294,
+                    19.2849509
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b30b6c96c2f7e2c51ff4",
+            "name": "f2af00da-9d7d-4412-82e8-80ca99801ac9",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8814,
+                    19.2852102
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b30b6c96c2f7e2c51ff5",
+            "name": "85bc57da-3f1f-416c-96d6-9801a0858f49",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.881599,
+                    19.2855393
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                3
+            ]
+        },
+        {
+            "_id": "6617b30b6c96c2f7e2c51ff6",
+            "name": "c1dacb8f-0d78-4b83-aec8-0facc4574d00",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.88165,
+                    19.2857769
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b30b6c96c2f7e2c51ff7",
+            "name": "bbcdb2cc-b713-42e8-9c0c-26e0dceff0c0",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8820364,
+                    19.285925
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b30b6c96c2f7e2c51ff8",
+            "name": "de0ab1a6-1a8b-4843-b6f5-186a6a642130",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8821956,
+                    19.2862282
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b30b6c96c2f7e2c51ff9",
+            "name": "4b064e89-68b8-4abe-a60a-4e1a44978d48",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.882324,
+                    19.2863793
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b30b6c96c2f7e2c51ffa",
+            "name": "068b038b-c88c-4384-a2ea-0852cd9ff146",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8824835,
+                    19.2864128
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b30b6c96c2f7e2c51ffb",
+            "name": "1a89e418-80f7-468b-8b12-211cf47a4511",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8838215,
+                    19.2858104
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b30b6c96c2f7e2c51ffc",
+            "name": "fdaf1d38-67fb-422a-9d86-4b99f2eb3e13",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8836669,
+                    19.2867012
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b30c6c96c2f7e2c51ffd",
+            "name": "2df35c41-2d33-483f-bcf6-ea57ef96628b",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8843107,
+                    19.2855549
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b30c6c96c2f7e2c51ffe",
+            "name": "85d329e3-3ed9-4395-a1e9-085005c20d0a",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8835675,
+                    19.284705
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b30c6c96c2f7e2c51fff",
+            "name": "7225db32-22b8-48ef-aeac-de204bd2e860",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8832928,
+                    19.2847107
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b30c6c96c2f7e2c52000",
+            "name": "a1a6d6e7-670e-4404-b052-b097ad65767e",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8857251,
+                    19.2840398
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b30c6c96c2f7e2c52001",
+            "name": "73cab34a-4710-4adf-82dc-04d634b9a391",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8830092,
+                    19.285694
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b30c6c96c2f7e2c52002",
+            "name": "de02d0e1-3484-4f37-9429-5c29106f0b4a",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8864241,
+                    19.2849975
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b30c6c96c2f7e2c52003",
+            "name": "5e2d789f-a5d4-4055-b785-b7e2d03903c3",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8858498,
+                    19.2845171
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b30d6c96c2f7e2c52004",
+            "name": "c1a72a8b-9fbb-4db6-83ef-694d644076fc",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.888035,
+                    19.286491
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b30d6c96c2f7e2c52005",
+            "name": "066e2925-06e7-4c25-8b92-54ce1b773cfc",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8875443,
+                    19.2858124
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b30d6c96c2f7e2c52006",
+            "name": "3c7f89e8-adc3-4150-823c-a6b002a9f0f6",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8865243,
+                    19.2851193
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b30d6c96c2f7e2c52007",
+            "name": "f4ff70ea-ad68-4d5c-9496-3e5335d549fc",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8880824,
+                    19.2865744
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "_id": "6617b30f6c96c2f7e2c52008",
+            "name": "d6ac4a93-8723-44ca-ae1a-c340cb818414",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8896875,
+                    19.2866608
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b30f6c96c2f7e2c52009",
+            "name": "8b58db33-1d4c-4027-a7b7-9ff979835573",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8898509,
+                    19.2867366
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b30f6c96c2f7e2c5200a",
+            "name": "e11dcb81-6f0b-4ed4-9545-cd87ebf51b39",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8898778,
+                    19.2868586
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                3,
+                4,
+                5,
+                1
+            ]
+        },
+        {
+            "_id": "6617b30f6c96c2f7e2c5200b",
+            "name": "a0b7b5af-1766-4e84-9837-cd014e42b8b9",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8895919,
+                    19.2873437
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3106c96c2f7e2c5200c",
+            "name": "7a303b19-6c59-49c4-8b0b-66570b2c5705",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8891862,
+                    19.2865748
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3106c96c2f7e2c5200d",
+            "name": "3d449068-6edd-4954-bba9-f377bce384f1",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8888649,
+                    19.2858823
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3106c96c2f7e2c5200e",
+            "name": "c0e3263b-7301-40da-a409-bf2a179512d3",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8886582,
+                    19.2854295
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3106c96c2f7e2c5200f",
+            "name": "380592ac-7ae1-4f25-acdb-f1fc616d48aa",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8885498,
+                    19.2851869
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3106c96c2f7e2c52010",
+            "name": "4c3ece7b-90d3-4651-9bae-c4936653b6ca",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8885091,
+                    19.2850909
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3106c96c2f7e2c52011",
+            "name": "9735a71d-04c6-4f44-ba15-e09e510b35e9",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8892706,
+                    19.2894332
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3106c96c2f7e2c52012",
+            "name": "93d447f4-3f7b-4d72-8f46-2bde4a84e542",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8893975,
+                    19.28941
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3116c96c2f7e2c52013",
+            "name": "669fa6b0-57d9-4fee-9005-f76e94bf9e10",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8893502,
+                    19.2895081
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3116c96c2f7e2c52014",
+            "name": "ec9b3e5e-e166-4f7f-a4a0-f2f9540bb6c7",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8891174,
+                    19.2899459
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3116c96c2f7e2c52015",
+            "name": "f6d82e1d-2130-4130-875f-cd9285aee47d",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8895642,
+                    19.2905197
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3126c96c2f7e2c52016",
+            "name": "6478b374-cd73-4a62-9bb6-31127e63fc98",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8893897,
+                    19.2917099
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3126c96c2f7e2c52017",
+            "name": "a1a3a45f-be3c-4796-910d-cfae3012e3f8",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8899278,
+                    19.2928931
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3126c96c2f7e2c52018",
+            "name": "c8fe0375-b98c-4bdb-8fc2-6897f704e08a",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8911221,
+                    19.2929577
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3136c96c2f7e2c52019",
+            "name": "3c3eab80-533d-4b14-b4da-a56f436c54fa",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8913088,
+                    19.2929884
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3136c96c2f7e2c5201a",
+            "name": "411e035e-e061-4e1b-9867-25994addeea3",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8912961,
+                    19.2928657
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3136c96c2f7e2c5201b",
+            "name": "3385ffef-71dd-4507-a080-76c9582028c3",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8915149,
+                    19.2927105
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3136c96c2f7e2c5201c",
+            "name": "137ef039-1751-4390-9b13-94967a0f782e",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8922063,
+                    19.2921146
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3136c96c2f7e2c5201d",
+            "name": "57550fba-68ff-49fa-966d-f44eff07722b",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8920663,
+                    19.2923277
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3136c96c2f7e2c5201e",
+            "name": "6625e66d-c93e-487d-8b67-388a1dbf36a4",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8921948,
+                    19.2922278
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3136c96c2f7e2c5201f",
+            "name": "3dc7dedd-004b-4d53-a1fb-38178461be6f",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8923664,
+                    19.291871
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3136c96c2f7e2c52020",
+            "name": "8e9c55ed-9ca3-443c-88a3-c68b46ef690a",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8924779,
+                    19.2917929
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3136c96c2f7e2c52021",
+            "name": "cebfbf38-ef6a-4a93-9196-2f56eb541ed4",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8925368,
+                    19.2916109
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3146c96c2f7e2c52022",
+            "name": "c3309e6d-e7bf-439b-b9fc-943c1dd98d7c",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8931723,
+                    19.2908902
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3146c96c2f7e2c52023",
+            "name": "edbbb4a3-1b35-4c8a-874e-186ab151d36b",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8934235,
+                    19.2906004
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3146c96c2f7e2c52024",
+            "name": "a03ae229-920a-47eb-9372-35202520cf49",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8948268,
+                    19.2886806
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3146c96c2f7e2c52025",
+            "name": "4f089d13-129e-484c-ab28-7077768df430",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8946866,
+                    19.2888911
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3156c96c2f7e2c52026",
+            "name": "c3b8b395-aa59-47d6-a9dd-76fca038b1ca",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8948921,
+                    19.2885864
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3156c96c2f7e2c52027",
+            "name": "cf1d0090-b7f4-443b-b7c8-f328e9d045f8",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8965335,
+                    19.2887083
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3166c96c2f7e2c52028",
+            "name": "dacb5fed-4707-4e47-a10a-965f73cfb63a",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8954499,
+                    19.2867142
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                4,
+                5,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3166c96c2f7e2c52029",
+            "name": "c8e86900-4448-4a4c-a8a5-ae980422642b",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.9014895,
+                    19.2859845
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3166c96c2f7e2c5202a",
+            "name": "6c67555a-ef4f-4624-b46e-3fe3a81481fb",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8906525,
+                    19.2780241
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3166c96c2f7e2c5202b",
+            "name": "3e1138aa-54e7-4bfd-82e5-024bdb6b8252",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8901405,
+                    19.2785408
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3166c96c2f7e2c5202c",
+            "name": "df4af534-6b3a-46d4-8070-8e632928a0ee",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8900772,
+                    19.2784157
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c5202d",
+            "name": "3c87d12b-4c75-490e-8cc2-b04fcf671619",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8900486,
+                    19.2782607
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c5202e",
+            "name": "0f881deb-c192-4ba4-9312-44c410543a8c",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8879892,
+                    19.2807606
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c5202f",
+            "name": "8ad6f143-809f-4ccf-a0f0-7a2bd4096312",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8886603,
+                    19.279947
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c52030",
+            "name": "d7af7239-63b5-482a-94c2-dba197b6c6f7",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8897379,
+                    19.2796763
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c52031",
+            "name": "5fec19c2-08b7-4e37-a24a-242f3b3ede9d",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8900608,
+                    19.2800488
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c52032",
+            "name": "d050dc08-dd57-4336-874a-2b97ad6d3217",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8902801,
+                    19.2803415
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c52033",
+            "name": "0fbe32a3-11e1-4777-8517-eda3151faef2",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.888928,
+                    19.2806365
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c52034",
+            "name": "dff5ea33-36fc-48fe-9bd5-b51d6048e887",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8885176,
+                    19.2807183
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c52035",
+            "name": "9f803cbe-947f-4013-bc1a-493c290ed7c6",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8890554,
+                    19.2810106
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c52036",
+            "name": "c1e5b58d-8dba-47a2-a0b8-3eecba32e49b",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.889547,
+                    19.2823024
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c52037",
+            "name": "539c05ea-ac68-489d-b788-037a7125dd47",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8896261,
+                    19.2824978
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3176c96c2f7e2c52038",
+            "name": "776316ae-1c31-400f-8b9a-4fd17c1eac26",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8882137,
+                    19.2827729
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3186c96c2f7e2c52039",
+            "name": "8336e391-38d4-4828-9fd2-a7ae78ddc9a4",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8878558,
+                    19.2829195
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3186c96c2f7e2c5203a",
+            "name": "2f945656-7089-4c2e-a9cd-2a545c223cab",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8883242,
+                    19.2832326
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b3186c96c2f7e2c5203b",
+            "name": "91f31d7f-39ae-46f5-81b5-b9b0977cb6a1",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8888712,
+                    19.2838465
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3186c96c2f7e2c5203c",
+            "name": "10f1f72e-2903-4b8b-8d08-b903ae8e60b3",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8896464,
+                    19.2845572
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3186c96c2f7e2c5203d",
+            "name": "6267075e-fdef-48a4-bb8f-474db318150c",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8898537,
+                    19.2847464
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3186c96c2f7e2c5203e",
+            "name": "3c4de5dd-aa93-4167-ad7c-6bd35bb3b7ea",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.886779,
+                    19.2840482
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b3186c96c2f7e2c5203f",
+            "name": "21722589-1ea5-450f-b10c-3fdcdc121e6f",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8899566,
+                    19.2856535
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                3
+            ]
+        },
+        {
+            "_id": "6617b3186c96c2f7e2c52040",
+            "name": "3cfb07b1-9810-4259-a241-3feab5081413",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8901105,
+                    19.2855764
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b3186c96c2f7e2c52041",
+            "name": "b40b04d7-4410-4156-845d-8f39cdba2ec1",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8897438,
+                    19.2773398
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                5,
+                1,
+                2
+            ]
+        },
+        {
+            "_id": "6617b3196c96c2f7e2c52042",
+            "name": "2d0fecc7-bd15-4265-8fd3-0c84d537161d",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8874325,
+                    19.2827192
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b31a6c96c2f7e2c52043",
+            "name": "9d7f239a-0408-4fe5-b7e3-f8a04c807602",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.9018809,
+                    19.284094
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b31a6c96c2f7e2c52044",
+            "name": "0ce70754-1f42-4d6c-8d12-2989a1a31096",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.9017762,
+                    19.284099
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b31a6c96c2f7e2c52045",
+            "name": "679c9625-497b-4eca-8493-73e9220e0a2c",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.9016142,
+                    19.2845047
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b31a6c96c2f7e2c52046",
+            "name": "47a25780-3dcc-410c-89cb-a9017a04851d",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.9010983,
+                    19.2845331
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b31a6c96c2f7e2c52047",
+            "name": "cf822caf-69b8-472b-accc-cef42b75efad",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.9008744,
+                    19.2845455
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b31a6c96c2f7e2c52048",
+            "name": "726f08eb-9130-4f74-9ec5-b6a690fed5ec",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.9001471,
+                    19.2847858
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b31a6c96c2f7e2c52049",
+            "name": "f34c9440-302b-431f-8d60-8df14ebe238c",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.898699,
+                    19.285257
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b31a6c96c2f7e2c5204a",
+            "name": "80abbf06-1fe3-4ba7-882d-30dd1522b9bb",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8976951,
+                    19.2855357
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "_id": "6617b31b6c96c2f7e2c5204b",
+            "name": "d063c726-8fba-433f-895b-6eddc72a1837",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8949191,
+                    19.2857759
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b31b6c96c2f7e2c5204c",
+            "name": "b222202c-7d36-47d9-82c3-271666d22b11",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8950387,
+                    19.2858671
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b31b6c96c2f7e2c5204d",
+            "name": "f76d188a-c3f0-41c5-bc5e-46cf800f3d43",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8930925,
+                    19.2835074
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b31b6c96c2f7e2c5204e",
+            "name": "da3959cd-5878-4018-9df4-46af6b5ddc48",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8933177,
+                    19.2839062
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "_id": "6617b31b6c96c2f7e2c5204f",
+            "name": "295e31b7-36f4-4e30-bb19-f5c290c118c1",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8928749,
+                    19.2840027
+                ]
+            },
+            "numberofPotholes": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "_id": "6617b31b6c96c2f7e2c52050",
+            "name": "747e61a4-97ea-40af-b47b-8c36233a9eb7",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8887561,
+                    19.2816159
+                ]
+            },
+            "numberofPotholes": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "_id": "6617b31b6c96c2f7e2c52051",
+            "name": "dbc64cc2-d4b0-4981-8554-3261af1a3657",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.888732,
+                    19.2818259
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "_id": "6617b31b6c96c2f7e2c52052",
+            "name": "db3ed707-36db-43b1-95cd-5f28f348f7c1",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8908609,
+                    19.2788136
+                ]
+            },
+            "numberofPotholes": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "_id": "6617b31b6c96c2f7e2c52053",
+            "name": "a793a25d-ff44-495e-bf32-1c76d6d7d94b",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8908467,
+                    19.2786572
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                5,
+                1
+            ]
+        },
+        {
+            "_id": "6617b31c6c96c2f7e2c52054",
+            "name": "dbb145f7-67d6-400b-b793-47fc4a661e69",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8907842,
+                    19.2782993
+                ]
+            },
+            "numberofPotholes": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                3
+            ]
+        },
+        {
+            "_id": "6617b31c6c96c2f7e2c52055",
+            "name": "bc759dba-f3fe-4b7a-8aec-bad771387dc2",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.8907259,
+                    19.2781808
+                ]
+            },
+            "numberofPotholes": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        }
+    ]
+}

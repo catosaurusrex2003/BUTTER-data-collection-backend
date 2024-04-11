@@ -30,4 +30,7 @@ except Exception as e:
 
 coordinateCollection = client.ipd.coordinate
 
+testCoordinateCollection = client.ipd.coordinateTest
+
 coordinateCollection.create_index([("location", pymongo.GEOSPHERE)])
+testCoordinateCollection.create_index([("location", pymongo.GEOSPHERE)])
