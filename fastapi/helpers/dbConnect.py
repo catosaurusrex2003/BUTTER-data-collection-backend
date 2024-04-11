@@ -20,7 +20,6 @@ MONGOURI = os.getenv("MONGOURI")
 client = MongoClient(MONGOURI, server_api=ServerApi("1"))
 
 
-
 # Send a ping to confirm a successful connection
 try:
     client.admin.command("ping")
@@ -28,7 +27,7 @@ try:
 except Exception as e:
     print(e)
 
-coordinateCollection = client.ipd.coordinate
+coordinateCollection = client.ipd.coordinates
 
 testCoordinateCollection = client.ipd.coordinateTest
 

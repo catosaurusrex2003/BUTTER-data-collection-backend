@@ -6,7 +6,7 @@ from helpers.queryDatabaseForPotholes import (
 import uuid
 import json
 
-with open("fullDatabase.json", "r") as file:
+with open("databaseBackup.json", "r") as file:
     data = json.load(file)
 
     for i in data["data"]:
